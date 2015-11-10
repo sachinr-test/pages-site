@@ -2,5 +2,4 @@ en:
   mongoid:
     errors:
       messages:
-        blank_in_locale:
-          "can't be blank"
+        blank_in_locale: "can't be blank"
